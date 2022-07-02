@@ -1,0 +1,16 @@
+h1{
+ text-align: center;
+ font-size: 50px
+}
+img{
+  height: 50vh;
+  width: 50vh;
+  border-radius: 20px;
+}
+
+<div class="container">
+   <h1>Heneral Goyo Del Pilar</h1>
+   <img src="FB_IMG1.jpg">
+   <h2>Biography</h2>
+   <p><b>Gregorio</b>was born in 1875 in the Philippines. He was the nephew of <b>Marcelo H. del Pilar</b>, who was a propagandist, and Toribio H. del Pilar, who had been exiled to Guam for participating in the 1872 Cavite Mutiny. The Cavite Mutiny was an unsuccessful mutiny at the Spanish arsenal Fort San Felipe. The participants hoped it would lead to a national uprising. In 1896, Gregorio turned 20 years old and received a Bachelor’s Degree from Ateneo de Manila University.</p>
+ </div>
